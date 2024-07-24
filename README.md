@@ -1,4 +1,4 @@
-# Dashboard Gatitos-Power BI
+# Dashboard Gatitos - Power BI
 
 Bem-vindo ao repositório do projeto Dashboard Gatitos. Este projeto foi desenvolvido como parte do curso "Power BI Desktop: Construindo meu Primeiro Dashboard" da Alura.
 
